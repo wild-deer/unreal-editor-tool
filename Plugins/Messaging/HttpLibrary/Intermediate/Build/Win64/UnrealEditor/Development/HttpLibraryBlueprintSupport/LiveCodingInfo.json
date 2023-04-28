@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HttpLibraryBlueprintSupport.cpp.obj": [
+			"HttpLibraryBlueprintSupport.init.gen.cpp.obj",
+			"K2Node_HttpLibraryGetRequest.gen.cpp.obj",
+			"K2Node_HttpLibraryPostRequest.gen.cpp.obj",
+			"K2Node_HttpLibraryRequest.gen.cpp.obj",
+			"HttpLibraryBlueprintSupportModule.cpp.obj",
+			"K2Node_HttpLibraryGetRequest.cpp.obj",
+			"K2Node_HttpLibraryPostRequest.cpp.obj",
+			"K2Node_HttpLibraryRequest.cpp.obj"
+		]
+	}
+}

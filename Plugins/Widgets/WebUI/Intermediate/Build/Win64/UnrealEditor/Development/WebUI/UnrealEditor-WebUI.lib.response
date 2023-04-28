@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WebUI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\shanxi\Intermediate\Build\Win64\SxsnEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\shanxi\Plugins\Widgets\WebUI\Intermediate\Build\Win64\UnrealEditor\Development\WebUI\Module.WebUI.cpp.obj"
+"C:\shanxi\Plugins\Widgets\WebUI\Intermediate\Build\Win64\UnrealEditor\Development\WebUI\Default.rc2.res"
+/OUT:"C:\shanxi\Plugins\Widgets\WebUI\Intermediate\Build\Win64\UnrealEditor\Development\WebUI\UnrealEditor-WebUI.lib"

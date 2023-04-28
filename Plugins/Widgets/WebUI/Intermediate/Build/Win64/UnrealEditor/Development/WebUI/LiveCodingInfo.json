@@ -1,0 +1,23 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WebUI.cpp.obj": [
+			"WebInterface.gen.cpp.obj",
+			"WebInterfaceAssetManager.gen.cpp.obj",
+			"WebInterfaceCallback.gen.cpp.obj",
+			"WebInterfaceHelpers.gen.cpp.obj",
+			"WebInterfaceInteractionComponent.gen.cpp.obj",
+			"WebInterfaceObject.gen.cpp.obj",
+			"WebUI.init.gen.cpp.obj",
+			"SWebInterface.cpp.obj",
+			"WebInterface.cpp.obj",
+			"WebInterfaceAssetManager.cpp.obj",
+			"WebInterfaceCallback.cpp.obj",
+			"WebInterfaceHelpers.cpp.obj",
+			"WebInterfaceInteractionComponent.cpp.obj",
+			"WebInterfaceObject.cpp.obj",
+			"WebInterfaceSchemeHandler.cpp.obj",
+			"WebUIModule.cpp.obj"
+		]
+	}
+}

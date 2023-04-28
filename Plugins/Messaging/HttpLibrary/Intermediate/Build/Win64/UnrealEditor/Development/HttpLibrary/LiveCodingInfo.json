@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HttpLibrary.cpp.obj": [
+			"HttpLibrary.init.gen.cpp.obj",
+			"HttpLibraryBinaryRequest.gen.cpp.obj",
+			"HttpLibraryEnums.gen.cpp.obj",
+			"HttpLibraryGetRequestCallbackProxy.gen.cpp.obj",
+			"HttpLibraryHelpers.gen.cpp.obj",
+			"HttpLibraryJsonRequest.gen.cpp.obj",
+			"HttpLibraryPostRequestCallbackProxy.gen.cpp.obj",
+			"HttpLibraryRequest.gen.cpp.obj",
+			"HttpLibraryRequestCallbackProxy.gen.cpp.obj",
+			"HttpLibraryBinaryRequest.cpp.obj",
+			"HttpLibraryGetRequestCallbackProxy.cpp.obj",
+			"HttpLibraryHelpers.cpp.obj",
+			"HttpLibraryJsonRequest.cpp.obj",
+			"HttpLibraryModule.cpp.obj",
+			"HttpLibraryPostRequestCallbackProxy.cpp.obj",
+			"HttpLibraryRequest.cpp.obj",
+			"HttpLibraryRequestCallbackProxy.cpp.obj",
+			"IHttpLibraryRequest.cpp.obj"
+		]
+	}
+}

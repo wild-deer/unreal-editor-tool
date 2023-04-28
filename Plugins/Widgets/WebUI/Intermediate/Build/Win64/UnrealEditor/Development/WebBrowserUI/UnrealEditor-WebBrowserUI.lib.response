@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WebBrowserUI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\shanxi\Intermediate\Build\Win64\SxsnEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\shanxi\Plugins\Widgets\WebUI\Intermediate\Build\Win64\UnrealEditor\Development\WebBrowserUI\Module.WebBrowserUI.cpp.obj"
+"C:\shanxi\Plugins\Widgets\WebUI\Intermediate\Build\Win64\UnrealEditor\Development\WebBrowserUI\Default.rc2.res"
+/OUT:"C:\shanxi\Plugins\Widgets\WebUI\Intermediate\Build\Win64\UnrealEditor\Development\WebBrowserUI\UnrealEditor-WebBrowserUI.lib"

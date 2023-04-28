@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.JsonLibraryBlueprintSupport.cpp.obj": [
+			"JsonLibraryBlueprintSupport.init.gen.cpp.obj",
+			"K2Node_JsonLibraryFromStruct.gen.cpp.obj",
+			"K2Node_JsonLibraryToStruct.gen.cpp.obj",
+			"JsonLibraryBlueprintSupportModule.cpp.obj",
+			"K2Node_JsonLibraryFromStruct.cpp.obj",
+			"K2Node_JsonLibraryToStruct.cpp.obj"
+		]
+	}
+}

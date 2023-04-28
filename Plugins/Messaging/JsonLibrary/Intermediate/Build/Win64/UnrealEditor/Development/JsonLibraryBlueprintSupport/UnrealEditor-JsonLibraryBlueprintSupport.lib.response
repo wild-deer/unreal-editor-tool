@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-JsonLibraryBlueprintSupport.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\shanxi\Intermediate\Build\Win64\SxsnEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\shanxi\Plugins\Messaging\JsonLibrary\Intermediate\Build\Win64\UnrealEditor\Development\JsonLibraryBlueprintSupport\Module.JsonLibraryBlueprintSupport.cpp.obj"
+"C:\shanxi\Plugins\Messaging\JsonLibrary\Intermediate\Build\Win64\UnrealEditor\Development\JsonLibraryBlueprintSupport\Default.rc2.res"
+/OUT:"C:\shanxi\Plugins\Messaging\JsonLibrary\Intermediate\Build\Win64\UnrealEditor\Development\JsonLibraryBlueprintSupport\UnrealEditor-JsonLibraryBlueprintSupport.lib"

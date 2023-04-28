@@ -1,0 +1,33 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WebBrowserUI.cpp.obj": [
+			"WebBrowserUI.init.gen.cpp.obj",
+			"CEFInterfaceBrowserApp.cpp.obj",
+			"CEFInterfaceBrowserByteResource.cpp.obj",
+			"CEFInterfaceBrowserHandler.cpp.obj",
+			"CEFInterfaceBrowserPopupFeatures.cpp.obj",
+			"CEFInterfaceCookieManager.cpp.obj",
+			"CEFInterfaceImeHandler.cpp.obj",
+			"CEFInterfaceJSScripting.cpp.obj",
+			"CEFInterfaceJSStructDeserializerBackend.cpp.obj",
+			"CEFInterfaceJSStructSerializerBackend.cpp.obj",
+			"CEFInterfaceResourceContextHandler.cpp.obj",
+			"CEFInterfaceSchemeHandler.cpp.obj",
+			"CEFInterfaceTextInputMethodContext.cpp.obj",
+			"CEFWebInterfaceBrowserWindow.cpp.obj",
+			"CEFWebInterfaceBrowserWindowRHIHelper.cpp.obj",
+			"NativeInterfaceJSScripting.cpp.obj",
+			"NativeInterfaceJSStructDeserializerBackend.cpp.obj",
+			"NativeInterfaceJSStructSerializerBackend.cpp.obj",
+			"NativeWebInterfaceBrowserProxy.cpp.obj",
+			"SWebInterfaceBrowser.cpp.obj",
+			"SWebInterfaceBrowserView.cpp.obj",
+			"WebInterfaceBrowserAdapter.cpp.obj",
+			"WebInterfaceBrowserModule.cpp.obj",
+			"WebInterfaceBrowserSingleton.cpp.obj",
+			"WebInterfaceBrowserViewport.cpp.obj",
+			"WebInterfaceJSFunction.cpp.obj"
+		]
+	}
+}

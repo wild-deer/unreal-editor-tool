@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HttpLibraryBlueprintSupport.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\shanxi\Intermediate\Build\Win64\SxsnEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\shanxi\Plugins\Messaging\HttpLibrary\Intermediate\Build\Win64\UnrealEditor\Development\HttpLibraryBlueprintSupport\Module.HttpLibraryBlueprintSupport.cpp.obj"
+"C:\shanxi\Plugins\Messaging\HttpLibrary\Intermediate\Build\Win64\UnrealEditor\Development\HttpLibraryBlueprintSupport\Default.rc2.res"
+/OUT:"C:\shanxi\Plugins\Messaging\HttpLibrary\Intermediate\Build\Win64\UnrealEditor\Development\HttpLibraryBlueprintSupport\UnrealEditor-HttpLibraryBlueprintSupport.lib"

@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\development\\jsonlibrary\\module.jsonlibrary.1_of_2.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\shanxi\\intermediate\\build\\win64\\sxsneditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\development\\jsonlibrary\\definitions.jsonlibrary.h",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\uht\\jsonlibrary.init.gen.cpp",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\uht\\jsonlibraryblueprinthelpers.gen.cpp",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibraryblueprinthelpers.h",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibraryobject.h",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibraryenums.h",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\uht\\jsonlibraryenums.generated.h",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibraryvalue.h",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\uht\\jsonlibraryvalue.generated.h",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\uht\\jsonlibraryobject.generated.h",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\uht\\jsonlibraryblueprinthelpers.generated.h",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\uht\\jsonlibraryenums.gen.cpp",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\uht\\jsonlibraryhelpers.gen.cpp",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibraryhelpers.h",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\source\\jsonlibrary\\public\\jsonlibrarylist.h",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\uht\\jsonlibrarylist.generated.h",
+            "c:\\shanxi\\plugins\\messaging\\jsonlibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonlibrary\\uht\\jsonlibraryhelpers.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

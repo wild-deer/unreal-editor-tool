@@ -1,8 +1,0 @@
-{
-	"BuildId": "23058290",
-	"Modules": 
-	{
-		"HttpLibrary": "UnrealEditor-HttpLibrary.dll",
-		"HttpLibraryBlueprintSupport": "UnrealEditor-HttpLibraryBlueprintSupport.dll"
-	}
-}

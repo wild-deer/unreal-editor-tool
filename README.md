@@ -10,42 +10,39 @@
 
 * 导入`json`文件
 
-<img src="https://jeremy233.oss-cn-beijing.aliyuncs.com/img1/%E5%BD%95%E5%88%B6_2023_05_05_17_34_55_778.gif" alt="录制_2023_05_05_17_34_55_778" style="zoom:67%;" />
+![1](./recouce/1.gif)
 
 * 根据`json`信息在场景中生成mesh
 
-<img src="https://jeremy233.oss-cn-beijing.aliyuncs.com/img1/%E5%BD%95%E5%88%B6_2023_05_05_17_57_36_321.gif" alt="录制_2023_05_05_17_57_36_321" style="zoom: 67%;" />
+![2](./recouce/2.gif)
 
 * 将新的`actor`的位置、旋转和缩放信息，保存到`json`中
 
-<img src="https://jeremy233.oss-cn-beijing.aliyuncs.com/img1/%E5%BD%95%E5%88%B6_2023_05_05_17_59_00_548.gif" alt="录制_2023_05_05_17_59_00_548" style="zoom:67%;" />
+![1](./recouce/3.gif)
 
 * 视角跳转
 
-<img src="https://jeremy233.oss-cn-beijing.aliyuncs.com/img1/%E5%BD%95%E5%88%B6_2023_05_05_18_00_13_554.gif" alt="录制_2023_05_05_18_00_13_554" style="zoom:67%;" />
+![1](./recouce/4.gif)
 
 * 重置`Actor`信息
 
-<img src="https://jeremy233.oss-cn-beijing.aliyuncs.com/img1/%E5%BD%95%E5%88%B6_2023_05_05_18_02_41_118.gif" alt="录制_2023_05_05_18_02_41_118" style="zoom:67%;" />
+![1](./recouce/5.gif)
 
 * 导出\保存`json`信息
 
-  <img src="https://jeremy233.oss-cn-beijing.aliyuncs.com/img1/%E5%BD%95%E5%88%B6_2023_05_05_18_05_14_564.gif" alt="录制_2023_05_05_18_05_14_564" style="zoom:67%;" />
+  ![1](./recouce/6.gif)
 
   + 排序、搜索和切换主题
 
-  <img src="https://jeremy233.oss-cn-beijing.aliyuncs.com/img1/%E5%BD%95%E5%88%B6_2023_05_05_18_08_18_912.gif" alt="录制_2023_05_05_18_08_18_912" style="zoom:67%;" />
+  ![1](./recouce/7.gif)
 
 ### 使用方法
 
 * 下载[release](https://github.com/wild-deer/unreal-editor-tool/releases)
 
-<img src="https://jeremy233.oss-cn-beijing.aliyuncs.com/img1/image-20230505181046083.png" alt="image-20230505181046083" style="zoom: 67%;" />
+<img src="https://jeremy233.oss-cn-beijing.aliyuncs.com/img1/image-20230505181046083.png" alt="image-20230505181046083" style="zoom:50%;" />
 
 * 将插件解压缩，放在`unreal`项目的目录下
-
-
-
 * 启动工程，在插件中启用`editor tool`
 * 选择模式
 * 导入`json`

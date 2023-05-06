@@ -12,7 +12,7 @@
 
 * 导入`json`文件
 
-<img src="./recouce/1.gif" alt="1" style="zoom:67%;" />
+<img src="./recouce/1.gif" alt="1" style="zoom: 33%;" />
 
 * 根据`json`信息在场景中生成mesh
 
@@ -222,7 +222,7 @@ git clone https://github.com/wild-deer/unreal-editor-tool.git
 
 界面的入口为`index.js`
 
-```react
+```js
 //index.js
 import React from 'react';
 import ReactDOM from 'react-dom/client';
@@ -246,7 +246,7 @@ reportWebVitals();
 
 `index`挂载了一个组件`App.js`
 
-```react
+```js
 // App.js
 import {React, useState} from "react";
 import { HashRouter,Route,Routes} from "react-router-dom";
@@ -288,7 +288,7 @@ export default App;
 
 `menu.js`
 
-```react
+```js
 import React, { useState, useEffect } from 'react';
 import { UploadOutlined,DownloadOutlined,CheckCircleOutlined,CloseCircleOutlined} from '@ant-design/icons';
 import {Table, Button, message, Upload, Input, Row, Col, ConfigProvider, Switch, Space} from 'antd';
@@ -600,7 +600,7 @@ export default App;
 
 `submenu.js`
 
-```react
+```js
 import React, { useState, useEffect} from 'react';
 import mytheme from "./theme";
 import zhCN from "antd/lib/locale/zh_CN";
